@@ -19,7 +19,7 @@ export function PaypalButtons(props) {
           });
         }}
         options={{
-          clientId: "ATUNKpnpWvUJtgyc_rm06BN7ApzfT2WmUyzvgGZAQK4uh_Q7dgdo_IR7vc4WxuS6dkG5MlX7BO9_hESv",
+          clientId: process.env.GATSBY_PAYPAL_CLIENT_ID,
           currency: "USD",
         }}
       />

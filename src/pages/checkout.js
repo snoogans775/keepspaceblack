@@ -6,7 +6,7 @@ import { PaypalButtons } from "../components/paypalButtons"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const SecondPage = () => (
+const Checkout = () => (
   <Layout>
     <Seo title="Donate" />
     <h2>Select Your payment Option</h2>
@@ -33,4 +33,4 @@ const SecondPage = () => (
   </Layout>
 )
 
-export default SecondPage
+export default Checkout;
