@@ -25,9 +25,7 @@ const Checkout = () => (
     <p><em>Who are you?</em></p>
     <p>I am Kevin Fredericks. I represent the League to Keep Space Black.</p>
     <p><em>Who am I?</em></p>
-    <p>Only you can answer that question, and you may not like the answer.</p>
-    <p><em>What is the League to Keep Space Black?</em></p>
-    <p>We are dedicated to Keeping Spack Black.</p>
+    <p>As stated, we are dedicated to Keeping Spack Black.</p>
     <p><em>Is this a great sticker?</em></p>
     <p>Yes. It is a great sticker.</p>
   </Layout>
