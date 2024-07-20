@@ -594,3 +594,8 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+#centered-body {
+  max-width: 800px;
+  margin: 0 auto;
+}
